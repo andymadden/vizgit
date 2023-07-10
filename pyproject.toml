@@ -1,0 +1,11 @@
+[projects]
+name = "VizGit"
+authors = [
+    {name = "Andrew Madden", email = "andrewsmadden@gmail.com"}
+]
+description = "A Neovim plugin for visual git management. Written in Python/VimScript"
+readme = "README.md"
+dependencies = [ "pynvim" ]
+version = "1.0"
+
+
